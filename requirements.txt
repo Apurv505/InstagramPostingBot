@@ -1,0 +1,4 @@
+pillow ==  8.4.0
+instapy ==  0.6.14
+selenium ==  4.0.0
+PyAutoIt == 0.6.5
